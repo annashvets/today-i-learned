@@ -1,6 +1,6 @@
 # today-i-learned
 
-1. GIT basic cimmands
+1. GIT basic commands
 - git commit - зберегти зміни (створити снепшот)
 - git branch <name> - створити вітку
 - git checkout <name> - перейти на іншу вітку
